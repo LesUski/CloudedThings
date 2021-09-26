@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there 👋:
 
 - 🔭 I’m currently working on my own Challenge **[100 Days in Cloud](https://github.com/CloudedThings/100-Days-in-Cloud)** doing one Cloud-related Lab each of the last hundred days of 2021. And working on my dog monitoring app run on AWS with ESP32-cam.
 - 🌱 I’m currently learning Programming Embadded Systems in C\C++ in school and all about AWS 
