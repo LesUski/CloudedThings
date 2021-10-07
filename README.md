@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Programming Embadded Systems in C\C++ in school and all about AWS 
 - ⌨️ My favorite programming language: Python
 - ☁️ I'm a 'wannabe' cloud architect
-- 🛠️ I love experimenting with embedded systems, such as EXP8266, Arduino MKR1000 and sensors
+- 🛠️ I love experimenting with embedded systems, such as ESP8266, Arduino MKR1000 and sensors
 - 🤔 I’m looking for help with doing real-life projects in IoT/Cloud world
 - 💬 Ask me about Internet of Things especially devices connected to cloud services
 - 📫 How to reach me: leszekucinski@gmail.com
