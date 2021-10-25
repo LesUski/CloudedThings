@@ -1,7 +1,7 @@
 ### Hi there 👋:
 
 - 🔭 I’m currently working on my own Challenge **[100 Days in Cloud](https://github.com/CloudedThings/100-Days-in-Cloud)** doing one Cloud-related Lab each of the last hundred days of 2021. And working on my dog monitoring app run on AWS with ESP32-cam.
-- ☁️ My Cloud Resume Challenge [website](profile.cloudofthings.net)
+- ☁️ My Cloud Resume Challenge [website](https://profile.cloudofthings.net)
 - 🌱 I’m currently learning Programming Embadded Systems in C\C++ in school and all about AWS 
 - ⌨️ My favorite programming language: Python
 - ☁️ I'm a 'wannabe' cloud architect
