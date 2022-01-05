@@ -1,8 +1,10 @@
 ### Hi there 👋:
-
-- 🔭 I’m currently working on my own Challenge **[100 Days in Cloud](https://github.com/CloudedThings/100-Days-in-Cloud)** doing one Cloud-related Lab each of the last hundred days of 2021. And working on my dog monitoring app run on AWS with ESP32-cam.
-- ☁️ My **Cloud Resume Challenge [website](https://profile.cloudofthings.net)**
-- 🌱 I’m currently learning architecting IoT infrastructure code with REST API and .NET -> [VHS Project](https://github.com/CloudedThings/VHS)
+- Currently I'm practising on Cloud solutions as part of [100 Days of Cloud Challenge](https://github.com/CloudedThings/100DaysOfCloud)
+- 🔭 In 2021 I did **[100 Days in Cloud Challenge](https://github.com/CloudedThings/100-Days-in-Cloud)** doing one Cloud-related Lab each of the last hundred days of 2021.
+- ☁️  My **Cloud Resume Challenge [website](https://profile.cloudofthings.net)**
+- :chart_with_upwards_trend: Go ahead check my blog where I post my labs and all sorts of cloud-related things [cloudofthings.net](https://cloudofthings.net/)
+- :facepunch: Yeah... I like challenges (I've cycled worlds longest cycling sportee (Vatternrundan - 300 km) few times as well
+- 🌱 The last big assignment in school was IoT infrastructure code with REST API and .NET -> [VHS Project](https://github.com/CloudedThings/VHS)
 - ⌨️ My favorite programming language: Python or maybe C#
 - ☁️ I'm a 'wannabe' cloud architect
 - 🛠️ I love experimenting with embedded systems, such as ESP8266, Arduino MKR1000 and sensors
